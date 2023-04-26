@@ -1,7 +1,7 @@
 # autoshell
 
 ```
-./install <<EOF
+odl get imagenet <<EOF
 y
 y
 EOF
